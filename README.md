@@ -4,7 +4,7 @@ Simple PHP language class
 # How to implement
 1. Include the Language.class.php to your page
 2. Initialize the class
-3. Use $_SESSIONS to store the language data
+3. Use $_SESSION to store the language data
 ( If you need a demonstration, the example.php got you covered c; )
 
 # For Languages
