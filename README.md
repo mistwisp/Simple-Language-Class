@@ -8,5 +8,5 @@ Simple PHP language class
 ( If you need a demonstration, the example.php got you covered c; )
 
 # For Languages
-Each language has a .json file inside the `lang` folder
-the .json files are structured as single associative arrays
+Each language has a .json file inside the `lang` folder.
+The .json files are structured as single associative arrays
