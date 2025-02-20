@@ -6,9 +6,9 @@
     if (isset($_POST['Lang']) && in_array($_POST['Lang'], $LangClass->GetAllLanguages())) 
     {
         $_SESSION['Language'] = $_POST['Lang'];
-		$_POST = [];
-		header("Location: " . $_SERVER["PHP_SELF"]);
-		exit();
+	$_POST = [];
+	header("Location: " . $_SERVER["PHP_SELF"]);
+	exit();
     }
 ?>
 <!DOCTYPE html>
